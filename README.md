@@ -109,6 +109,6 @@ https://docs.google.com/spreadsheets/d/1PswbMmadvYgaZBR4kJS3uZervF1ncsXipi2g_Hat
 
 ## Attachments
 <img width="696" height="697" alt="Screenshot 2026-11-07 193917" src="https://github.com/user-attachments/assets/1e83bcee-b725-4a32-b3f9-ed15fff1a43c" />
-<img width="697" height="781" alt="Screenshot 2026-11-07 193951" src="https://github.com/user-attachments/assets/0b05ba70-c8ad-41dd-be7c-f76a5e7bcc42" />
+<img width="696" height="781" alt="Screenshot 2026-11-07 193951" src="https://github.com/user-attachments/assets/0b05ba70-c8ad-41dd-be7c-f76a5e7bcc42" />
 
 
